@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jj-devel
 
-- 🌱 I’m currently learning: Computer Science, Game Development, Python, C++, and SQL
+- 🌱 I’m currently learning: Business Administration, Computer Science, Python, Go, and SQL
+
+- Going through the Boot.dev course for Python/Go Backend Development
 
 - I love to learn, so please share your knowledge! 
 
